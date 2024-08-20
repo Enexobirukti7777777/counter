@@ -1,0 +1,26 @@
+.button{
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.count-display{
+  font-size: 10em;
+  margin: 0;
+  margin-bottom: 50px;
+  
+}
+
+.buttonde{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color: aqua;
+  color:white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.buttonde:hover{
+  background-color: hsl(180, 40%, 71%);
+}
